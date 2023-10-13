@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 #Creds
-utils/credentials.json
+config/credentials.json
 token.json
